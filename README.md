@@ -1,5 +1,6 @@
-## Script
-```lua
+l## Script
+lua
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/xxCary-UC/HotRoblox/refs/heads/main/KotaRoleplay.lua"))()
 local owner = "Upbolt"
 local branch = "revision"
 
